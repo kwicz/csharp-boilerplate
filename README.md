@@ -1,6 +1,6 @@
-# _{Application Name}_
+# _C# Project Template_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _Use as a base for starting C# prjects, Feb 2020_
 
 #### By _**K. Wicz**_
 
